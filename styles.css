@@ -1,0 +1,62 @@
+/* body {
+    background-color: #FAF7F0 !important;
+} */
+
+/* CLASSES */
+
+
+
+/* FAQ SECTION */
+
+/* .faq-title {} */
+
+.accordion {
+    width: 40rem;
+}
+
+.contact-form {
+    width: 40rem;
+}
+
+.faq-flexbox-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: center;
+}
+
+/* MAIN PAGE (INDEX.HTML) SECTION */
+.card {
+    width: 25rem !important;
+}
+
+
+.card-img-top {
+    width: 400px;
+    height: 133.33px;
+}
+
+.checked {
+    color: gold;
+}
+
+.navbar {
+    margin-bottom: 2rem;
+}
+
+.navbar-brand {
+    font-size: 24px !important;
+}
+
+.row {
+    justify-content: space-around;
+    margin-bottom: 2rem;
+    margin-left: 5rem !important;
+    margin-right: 5rem !important;
+    text-align: center;
+}
+
+.star-rating {
+    margin-top: 0.5em;
+}
